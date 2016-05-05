@@ -1,0 +1,14 @@
+meteor-base
+mobile-experience
+mongo
+session
+jquery
+tracker
+standard-minifier-css
+standard-minifier-js
+es5-shim
+
+angular
+twbs:bootstrap
+angularui:angular-ui-router
+aldeed:collection2
